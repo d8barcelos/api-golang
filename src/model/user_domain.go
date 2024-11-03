@@ -41,3 +41,7 @@ func (ud *userDomain) GetAge() int8 {
 func (ud *userDomain) SetID(id string) {
 	ud.Id = id
 }
+
+func (ud *userDomain) GetId() string {
+	return ud.Id
+}
