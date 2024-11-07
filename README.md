@@ -128,10 +128,6 @@ Campos de resposta com informações do usuário:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas.
 
-## 📜 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ---
 
-Esperamos que esta documentação ajude você a explorar e interagir com a API do projeto. Em caso de dúvidas, entre em contato. Aproveite! 🎉
+Espero que esta documentação ajude você a explorar e interagir com a API do projeto. Em caso de dúvidas, entre em contato. Aproveite! 🎉
